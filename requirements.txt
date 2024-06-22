@@ -3,3 +3,4 @@ tensorflow
 opencv-python
 numpy
 pybase64
+gunicorn==19.7.1
