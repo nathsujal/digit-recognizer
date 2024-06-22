@@ -2,4 +2,4 @@ flask
 tensorflow
 opencv-python
 numpy
-python-base64
+pybase64
